@@ -19,6 +19,7 @@ Next n lines: the n x n nursery, one line in the file per nursery row, including
 
 Every test case has 5 minutes to complete, exceeding which the test case fails.
 
+# Miscellaneous
 Note that these algorithms are by no means the best way to solve this particular problem.
 Treating it as a Constraint Satisfaction Problem would be considerably more efficient.
 
